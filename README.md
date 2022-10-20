@@ -3,7 +3,7 @@
 
 ### Hi there 👋, Alexandra Dávila
 #### QA and data insight engineer
-![QA and data insight engineer]
+<!-- ![QA and data insight engineer](url de imagen) -->
 
 💻 I really love them and enjoy to learning languages, frameworks,full-lifecycle, tools for testing cases functional or non-functional, QA fundamentals and methodologies in a project.
 
