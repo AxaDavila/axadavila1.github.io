@@ -2,17 +2,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexa900)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Alexandra Dávila
-#### QA and data insight engineer
+## QA and data insight engineer
 <!-- ![QA and data insight engineer](url de imagen) -->
 
 💻 I really love them and enjoy to learning languages, frameworks,full-lifecycle, tools for testing cases functional or non-functional, QA fundamentals and methodologies in a project.
 
-Skills:  HTML / CSS / PHP / Selenium / Scrum / Jira /postman / SQL / Automation / Java / analytics 
+## Skills and Experience  
+* HTML / CSS / PHP / Java
+* Selenium / Automation
+* Scrum / Jira /postman / SQL / analytics 
 
 - 🔭 I’m currently working on LQN 
 - 🌱 I’m currently learning methodologies CI/CD, BDD, TDD 
 - 👯 I’m looking to collaborate on test cases, insights, anything for QA 
-- 🤔 I’m looking for help with automation python 
 - ❤ I’m interested in QA Development, Data Science and cloud Computing
 
 
