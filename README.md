@@ -11,12 +11,10 @@
 *  ⚙  Selenium / Automation
 *  📜 Scrum / Jira / postman / SQL / analytics 
 
-## 
-
- 🔭 I’m currently working on LQN 
- 🌱 I’m currently learning methodologies CI/CD, BDD, TDD 
+## Focus
+ 🌱 learning methodologies CI/CD, BDD, TDD 
  👯 I’m looking to collaborate on test cases, insights, anything for QA 
- ❤  I’m interested in QA Development, Data Science and cloud Computing
+ ❤ interested in QA Development, Data Science and cloud Computing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/axadavila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/axadavila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diana-davila-20000139/)  
